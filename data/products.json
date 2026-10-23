@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Paytm Swift Loan (synthetic)",
+    "type": "Personal Loan",
+    "rate": 11.5,
+    "processing_fee_pct": 1.0,
+    "tenure_months": 12,
+    "min_income": 25000,
+    "max_amount": 300000,
+    "features": "Instant disbursal, paperless"
+  },
+  {
+    "name": "Bharat Suvidha Loan (synthetic)",
+    "type": "Personal Loan",
+    "rate": 12.0,
+    "processing_fee_pct": 1.5,
+    "tenure_months": 24,
+    "min_income": 20000,
+    "max_amount": 500000,
+    "features": "Lower income threshold, flexible tenure"
+  },
+  {
+    "name": "Secure Plus Loan (synthetic)",
+    "type": "Secured Loan",
+    "rate": 9.8,
+    "processing_fee_pct": 0.5,
+    "tenure_months": 36,
+    "min_income": 30000,
+    "max_amount": 1000000,
+    "features": "Lowest rate, needs collateral"
+  }
+]
