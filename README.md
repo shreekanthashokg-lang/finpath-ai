@@ -19,7 +19,7 @@ Which documents am I missing?
 What does APR, EMI, or reducing balance mean?
 Which lender is genuinely better for me?
 
-Today's chatbots provide answers.
+TODAY'S CHARTBOTS PROVIDE ANSWERS. 
 
 FinPath AI provides a guided journey.
 
