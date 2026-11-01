@@ -190,7 +190,7 @@ Clear tradeoffs.
 
 🤖 Journey Copilot
 
-Context-aware assistant that understands where the user is in their journey.
+CONTEXT-AWARE ASSISTANT THAT UNDERSTANDS WHERE THE USER IS IN THEIR JOURNEY.
 
 Examples:
 
