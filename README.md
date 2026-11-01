@@ -9,7 +9,7 @@ From confusion to confidence, FinPath AI walks users through every step of their
 
 🌟 Problem We Are Solving
 
-Millions of Indians abandon important financial goals because the process feels complex, intimidating, and opaque.
+MILLIONS OF INDIANS ABANDON IMPORTANT FINANCIAL GOAL BECAUSE THE PROCESS  feels complex, intimidating, and opaque.
 
 Users often ask:
 
