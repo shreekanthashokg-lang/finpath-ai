@@ -62,7 +62,7 @@ git push -u origin main
 
 ## ⚠️ Disclaimers
 
-- All products, rates and figures are **synthetic demo data**.
+- ALL PRODUCTS, RATES AND FIGURES ARE **DEMO Data**.
 - Outputs are **estimates**, not financial advice, not verified product terms, and **not loan approvals**.
 - Actual lending decisions rest solely with licensed lenders.
 - Built for a hackathon with consent-first, explainable-AI principles (DPDP-aware by design).
