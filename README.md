@@ -76,4 +76,4 @@ git push -u origin main
 - [ ] Paytm sandbox API integration
 
 ---
-Built with ❤️ for the Paytm Build for India AI Hackathon, Bengaluru — 31 Oct 2026.
+BUILT WITH ❤️ FOR THE PAYTM BUILD FOR INDIA AI HACKTHON, Bengaluru — 31 Oct 2026.
