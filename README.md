@@ -42,7 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ☁️ Deploy on Streamlit Community Cloud (free)
+## ☁️ DEPLOYED ON STEAMLIT COMMUNITY CLOUD
 
 1. Push this repo to GitHub (see below).
 2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**.
