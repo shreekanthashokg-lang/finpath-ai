@@ -330,7 +330,7 @@ Phase 4
 
 FinPath AI doesn't just answer financial questions.
 
-It guides users from uncertainty to action, one transparent step at a time.
+IT GUIDES USERS FROM UNCERTAINITY TO ACTION, ONE TRANSPARENT STEP AT A TIME. 
 
 One-Liner
 
