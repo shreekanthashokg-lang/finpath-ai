@@ -9,7 +9,7 @@ guided, transparent, step-by-step journey: conversational intake → determinist
 analysis → plain-language explanations → document readiness checklist → transparent comparison →
 confident decision.
 
-## ✨ Features (Hackathon MVP)
+## ✨MVP HACKTHON FEATURES
 
 | Feature | What it does |
 |---|---|
