@@ -7,7 +7,7 @@ Most financial apps answer questions. FinPath AI guides decisions.
 
 From confusion to confidence, FinPath AI walks users through every step of their financial journey with personalized guidance, transparent calculations, explainable insights, and actionable next steps.
 
-🌟 Problem We Are Solving
+🌟 PROBLEM WE ARE SOLVING 
 
 MILLIONS OF INDIANS ABANDON IMPORTANT FINANCIAL GOAL BECAUSE THE PROCESS  feels complex, intimidating, and opaque.
 
