@@ -116,7 +116,7 @@ Areas to improve:
 • Reduce credit utilization
 📄 AI-Powered Document Readiness Assistant
 
-Generates personalized checklists:
+GENERATES PERSONALIZED CHECKLISTS:
 
 Salaried Employee
 
