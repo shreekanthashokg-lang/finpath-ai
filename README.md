@@ -272,7 +272,7 @@ FinPath AI
 └─────────────────────┘
 🇮🇳 Why This Matters For India
 
-India is onboarding millions of first-time borrowers.
+INDIA IS ONBOARDING MILLIONS OF FIRST-TIME BORROWERS.
 
 Many users:
 
