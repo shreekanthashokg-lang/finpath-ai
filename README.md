@@ -147,9 +147,9 @@ Documents Completed
 ████████░░ 80%
 📖 Financial Jargon Translator
 
-Makes finance understandable.
+MAKES FINANCE UNDERSTANDABLE.
 
-Examples:
+EXAMPLES:
 
 Term	Simple ExplanationEMI	Monthly amount you pay back to the lender
 APR	Total borrowing cost including fees
