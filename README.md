@@ -51,7 +51,7 @@ Every stage explains what to do, why it matters, and what to do next.
 
 Not a chatbot.
 
-A personalized financial pathway that tracks user progress in real time.
+A PERSONALIZED FINANCIAL PATHWAY THAT TRACKS USER PROGRESS IN REAL TIME.
 
 Journey Stages
 
