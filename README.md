@@ -13,10 +13,10 @@ MILLIONS OF INDIANS ABANDON IMPORTANT FINANCIAL GOAL BECAUSE THE PROCESS  feels 
 
 Users often ask:
 
-Can I actually afford this loan?
-Why was I rejected?
-Which documents am I missing?
-What does APR, EMI, or reducing balance mean?
+CAN I ACTUALLY AFFORD THIS LOAN?
+WHY was I REJECTED?
+WHICH DOCUMENTS am I MISSING?
+WHAT does APR, EMI, or reducing balance mean?
 Which lender is genuinely better for me?
 
 TODAY'S CHARTBOTS PROVIDE ANSWERS. 
