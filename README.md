@@ -67,7 +67,7 @@ Journey Stages
 
 ✅ Make Informed Decision
 
-🧮 Explainable Affordability Engine
+🧮 Explainable AFFORDABILITY ENGINE 
 
 A DETERMINISTIC FINANCIAL ENGINE CALCULATES:
 
