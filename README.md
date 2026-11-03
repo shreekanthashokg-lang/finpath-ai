@@ -79,7 +79,7 @@ Budget stress score
 Recommended EMI range
 Why It Matters
 
-All financial calculations are:
+ALL FINANCIAL CALCULATIONS ARE MADE:
 
 ✅ Auditable
 
