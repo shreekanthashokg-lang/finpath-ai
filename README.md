@@ -69,7 +69,7 @@ Journey Stages
 
 🧮 Explainable Affordability Engine
 
-A deterministic financial engine calculates:
+A DETERMINISTIC FINANCIAL ENGINE CALCULATES:
 
 EMI
 Total repayment
