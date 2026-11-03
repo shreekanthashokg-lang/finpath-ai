@@ -208,7 +208,7 @@ No API keys required.
 
 🔒 Trust & Explainability Layer
 
-FinPath follows a strict financial AI architecture.
+FINPATH FOLLOWS a STRICT FINANCIAL AI ARCHITECTURE.
 
 Core Principle
 Plain Text
