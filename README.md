@@ -140,10 +140,10 @@ Self Employed
 
 ✅ Bank Statements
 
-Live completion progress:
+LIVE COMPLETION PROGRESS:
 
-Plain Text
-Documents Completed
+PLAIN TEXT 
+DOCUMENTS COMPLETED 
 ████████░░ 80%
 📖 Financial Jargon Translator
 
