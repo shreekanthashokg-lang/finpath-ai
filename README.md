@@ -3,7 +3,7 @@ Your Financial Journey Co-Pilot
 
 Track 2: AI-Powered Financial Journeys Paytm Build for India AI Hackathon • Bengaluru Edition
 
-Most financial apps answer questions. FinPath AI guides decisions.
+MOST FINANCIAL APPS ANSWER questions. FINPATH AI GUIDES DECISIONS.
 
 From confusion to confidence, FinPath AI walks users through every step of their financial journey with personalized guidance, transparent calculations, explainable insights, and actionable next steps.
 
