@@ -89,7 +89,7 @@ ALL FINANCIAL CALCULATIONS ARE MADE:
 
 ✅ Independent of AI hallucinations
 
-AI explains numbers. Python computes numbers.
+AI EXPLAINS NUMBERS. PYTHON COMPUTES NUMBERS.
 
 🏆 Loan Readiness Score
 
