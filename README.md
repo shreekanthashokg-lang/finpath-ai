@@ -151,8 +151,8 @@ MAKES FINANCE UNDERSTANDABLE.
 
 EXAMPLES:
 
-Term	Simple ExplanationEMI	Monthly amount you pay back to the lender
-APR	Total borrowing cost including fees
+Term	SIMPLE EXPLANATIONS	 MONTHLY AMOUNT YOU PAY BACK TO THE LENDER 
+APR	TOTAL BORROWING COST INCLUDING FEES 
 Credit Score	Your financial reputation score
 Reducing Balance	Interest charged only on outstanding loan amount
 Processing Fee	One-time fee charged for handling the loan
