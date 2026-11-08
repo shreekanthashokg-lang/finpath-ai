@@ -27,10 +27,10 @@ FinPath AI provides a guided journey.
 
 FinPath AI transforms complex financial processes into structured, AI-assisted journeys.
 
-Starting with Loan Readiness, users progress through:
+Starting WITH LOANS READINESS, USERS PROGRESS THROUGH:
 
-Plain Text
-Goal Setting
+PLAIN TEXT 
+GOAL SETTING 
 ↓
 Financial Assessment
 ↓
