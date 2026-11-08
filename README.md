@@ -44,7 +44,7 @@ Decision Support
 ↓
 Application Confidence
 
-Every stage explains what to do, why it matters, and what to do next.
+EVERY STAGE EXPLAINS WHAT TO DO, WHY IT MATTERS, AND WHAT TO DO NEXT.
 
 ✨ Hackathon MVP Features
 🎯 Smart Guided Loan Journey
