@@ -93,9 +93,9 @@ AI EXPLAINS NUMBERS. PYTHON COMPUTES NUMBERS.
 
 🏆 Loan Readiness Score
 
-A user-friendly score between 0-100 based on:
+A USER-FRIENDLY SCORE BETWEEN 0-100 BASED ON:
 
-Plain Text
+PLAIN TEXT 
 Income Stability
 + Savings Cushion
 + Existing Debt
