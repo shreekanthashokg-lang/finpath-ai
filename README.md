@@ -328,7 +328,7 @@ Phase 4
 
 🔥 Hackathon Pitch Tagline
 
-FinPath AI doesn't just answer financial questions.
+FINPATH AI DOESN'T JUST ANSWER FINANCIAL QUESTIONS.
 
 IT GUIDES USERS FROM UNCERTAINITY TO ACTION, ONE TRANSPARENT STEP AT A TIME. 
 
