@@ -11,7 +11,7 @@ FROM CONFUSION to CONFIDENCE, FINPATH AI WALKS USERS THROUGH EVERY STEP OF THEIR
 
 MILLIONS OF INDIANS ABANDON IMPORTANT FINANCIAL GOAL BECAUSE THE PROCESS  feels complex, intimidating, and opaque.
 
-Users often ask:
+Users OFTEN ASK:
 
 CAN I ACTUALLY AFFORD THIS LOAN?
 WHY was I REJECTED?
@@ -25,7 +25,7 @@ FinPath AI provides a guided journey.
 
 💡 Solution
 
-FinPath AI transforms complex financial processes into structured, AI-assisted journeys.
+FINPATH AI transforms COMPLEX FINANCIAL PROCESSES INTO STRUCTURED, AI-ASSISTED JOURNEYS.
 
 Starting WITH LOANS READINESS, USERS PROGRESS THROUGH:
 
