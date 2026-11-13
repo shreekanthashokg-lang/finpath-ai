@@ -1,5 +1,5 @@
 🚀 FinPath AI
-Your Financial Journey Co-Pilot
+YOUR FINANCIAL JOURNEY CO-PILOT 
 
 Track 2: AI-Powered Financial Journeys Paytm Build for India AI Hackathon • Bengaluru Edition
 
