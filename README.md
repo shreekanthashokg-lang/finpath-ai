@@ -154,8 +154,8 @@ EXAMPLES:
 Term	SIMPLE EXPLANATIONS	 MONTHLY AMOUNT YOU PAY BACK TO THE LENDER 
 APR	TOTAL BORROWING COST INCLUDING FEES 
 Credit Score	Your financial reputation score
-Reducing Balance	Interest charged only on outstanding loan amount
-Processing Fee	One-time fee charged for handling the loan
+REDUCING BALANCE	INTEREST CHARGED ONLY ON OUTSTANDING LOAN AMOUNT 
+Processing FEE	ONE-TIME FEE CHARGED FOR HANDLING THE LOAN 
 
 Supports:
 
