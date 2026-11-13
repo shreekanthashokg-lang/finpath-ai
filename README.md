@@ -206,25 +206,25 @@ Works entirely offline for MVP.
 
 No API keys required.
 
-🔒 Trust & Explainability Layer
+🔒 TRUST & EXPLAINABILITY LAYER 
 
 FINPATH FOLLOWS a STRICT FINANCIAL AI ARCHITECTURE.
 
-Core Principle
-Plain Text
-AI = Explain
-Logic = Compute
-User = Decide
+CORE PRINCIPLE 
+PLAIN TEXT 
+AI = EXPLAIN 
+Logic = COMPUTER 
+User = DECIDE 
 
 The AI NEVER:
 
-❌ Approves loans
+❌ APPROVES LOANS 
 
-❌ Predicts approvals
+❌ PREDICTS APPROVALS 
 
-❌ Generates financial calculations
+❌ GENERATES FINANCIAL CALCULATIONS 
 
-❌ Replaces lender decisions
+❌ REPLACES LENDER DECISIONS 
 
 The AI ONLY:
 
