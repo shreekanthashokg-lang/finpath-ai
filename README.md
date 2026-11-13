@@ -281,7 +281,7 @@ Fear making wrong decisions
 Struggle with documentation
 Do not understand loan terminology
 
-FinPath AI acts like a trusted financial companion that simplifies the journey while keeping users informed and empowered.
+FinPath AI ACTS LIKE A TRUSTED FINANCIAL COMPANION THAT SIMPLIFIES THE JOURNEY WHILE KEEPING USERS INFORMED AND EMPOWERED.
 
 🎖️ Future Roadmap
 Phase 1
