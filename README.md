@@ -102,14 +102,14 @@ Income Stability
 + Documentation Readiness
 + Affordability Metrics
 --------------------------------
-= Loan Readiness Score
-Example
-Plain Text
-Current Readiness: 72/100
+= LOAN READINESS SCORE 
+EXAMPLE 
+PLAIN TEXT 
+CURRENT READINESS: 72/100
  
-Strengths:
-✓ Stable income
-✓ Low debt burden
+STRENGTHS:
+✓ STABLE INCOME 
+✓ LOW DEBT BURDEN 
  
 Areas to improve:
 • Upload address proof
