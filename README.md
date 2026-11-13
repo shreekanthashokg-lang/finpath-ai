@@ -96,11 +96,11 @@ AI EXPLAINS NUMBERS. PYTHON COMPUTES NUMBERS.
 A USER-FRIENDLY SCORE BETWEEN 0-100 BASED ON:
 
 PLAIN TEXT 
-Income Stability
-+ Savings Cushion
-+ Existing Debt
-+ Documentation Readiness
-+ Affordability Metrics
+INCOME STABILITY 
++ SAVINGS CUSHION 
++ EXISTING DEBT 
++ DOCUMENTATION READINESS 
++ AFFORDABILITY METRICS 
 --------------------------------
 = LOAN READINESS SCORE 
 EXAMPLE 
@@ -111,9 +111,9 @@ STRENGTHS:
 ✓ STABLE INCOME 
 ✓ LOW DEBT BURDEN 
  
-Areas to improve:
-• Upload address proof
-• Reduce credit utilization
+AREAS to IMPROVE:
+• UPLOAD ADDRESS PROOF 
+• REDUCE CREDIT UTILISATION 
 📄 AI-Powered Document Readiness Assistant
 
 GENERATES PERSONALIZED CHECKLISTS:
