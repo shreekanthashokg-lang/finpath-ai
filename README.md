@@ -236,9 +236,9 @@ The AI ONLY:
 
 ✅ ASSISTS 
 
-🏗️ Technical Architecture
-Plain Text
-FinPath AI
+🏗️ TECHNICALL ARCHITECTURE 
+PLAIN TEXT 
+FINPATH AI
  
 ┌─────────────────┐
 │ Streamlit App │
