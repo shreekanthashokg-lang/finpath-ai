@@ -136,9 +136,9 @@ Self Employed
 
 ✅ ITR
 
-✅ Business Registration
+✅ BUSINESS REGISTRATION 
 
-✅ Bank Statements
+✅ BANK Statements
 
 LIVE COMPLETION PROGRESS:
 
@@ -204,7 +204,7 @@ EXAMPLES:
 
 Works entirely offline for MVP.
 
-No API keys required.
+No API KEYS REQUIRED.
 
 🔒 TRUST & EXPLAINABILITY LAYER 
 
@@ -274,9 +274,9 @@ FINPATH AI
 
 INDIA IS ONBOARDING MILLIONS OF FIRST-TIME BORROWERS.
 
-Many users:
+MANY USERS:
 
-Have limited financial literacy
+HAVE limited financial literacy
 Fear making wrong decisions
 Struggle with documentation
 Do not understand loan terminology
