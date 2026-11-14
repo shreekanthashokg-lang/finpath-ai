@@ -182,13 +182,13 @@ Product C
 Interest: 9.9%
 Processing Fee: ₹1999
 
-No dark patterns.
+No dark PATTERNS.
 
-No hidden assumptions.
+No HIDDEN assumption.
 
 Clear tradeoffs.
 
-🤖 Journey Copilot
+🤖 JOURNEY CO-PILOT 
 
 CONTEXT-AWARE ASSISTANT THAT UNDERSTANDS WHERE THE USER IS IN THEIR JOURNEY.
 
