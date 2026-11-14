@@ -184,15 +184,15 @@ Processing Fee: ₹1999
 
 No dark PATTERNS.
 
-No HIDDEN assumption.
+No HIDDEN ASSUMPTION.
 
-Clear tradeoffs.
+CLEAR TRADEOFFS.
 
 🤖 JOURNEY CO-PILOT 
 
 CONTEXT-AWARE ASSISTANT THAT UNDERSTANDS WHERE THE USER IS IN THEIR JOURNEY.
 
-Examples:
+EXAMPLES:
 
 "Why is my affordability score low?"
 
