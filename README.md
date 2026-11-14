@@ -118,7 +118,7 @@ AREAS to IMPROVE:
 
 GENERATES PERSONALIZED CHECKLISTS:
 
-Salaried Employee
+SALARIED EMPLOYEE 
 
 ✅ PAN Card
 
@@ -130,9 +130,9 @@ Salaried Employee
 
 ✅ Employment Proof
 
-Self Employed
+SELF EMPLOYED 
 
-✅ GST Returns
+✅ GST RETURNS 
 
 ✅ ITR
 
