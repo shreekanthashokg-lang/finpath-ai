@@ -161,13 +161,13 @@ Supports:
 
 ✅ English
 
-✅ Hindi
+✅ HINDI 
 
-✅ Hinglish (future)
+✅ HINGLISH (FUTURE)
 
-📊 Transparent Loan Comparison
+📊 TRANSPARENT LOAN COMPARISON 
 
-Compare products side-by-side.
+COMPARE PRODUCTS SIDE-BY-SIDE.
 
 Plain Text
 Product A
