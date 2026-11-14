@@ -55,15 +55,15 @@ A PERSONALIZED FINANCIAL PATHWAY THAT TRACKS USER PROGRESS IN REAL TIME.
 
 JOURNEY STAGES 
 
-✅ Define Loan Goal
+✅ Define LOAN GOAL 
 
-✅ Calculate Affordability
+✅ CALCULATE AFFORDABILITY 
 
-✅ Improve Readiness
+✅ IMPROVE READINESS 
 
-✅ Complete Documentation
+✅ COMPLETE DOCUMENTATION 
 
-✅ Compare Options
+✅ COMPARE OPTIONS 
 
 ✅ Make Informed Decision
 
