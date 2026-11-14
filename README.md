@@ -228,13 +228,13 @@ The AI NEVER:
 
 The AI ONLY:
 
-✅ Explains
+✅ EXPLAINS 
 
-✅ Guides
+✅ GUIDES 
 
-✅ Educates
+✅ Educated 
 
-✅ Assists
+✅ ASSISTS 
 
 🏗️ Technical Architecture
 Plain Text
