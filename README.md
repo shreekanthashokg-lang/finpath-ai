@@ -270,7 +270,7 @@ FINPATH AI
 │ Synthetic Products │
 │ JSON Data Store │
 └─────────────────────┘
-🇮🇳 Why This Matters For India
+🇮🇳 WHY THIS MATTERS FOR INDIA 
 
 INDIA IS ONBOARDING MILLIONS OF FIRST-TIME BORROWERS.
 
