@@ -283,8 +283,8 @@ Do not understand loan terminology
 
 FinPath AI ACTS LIKE A TRUSTED FINANCIAL COMPANION THAT SIMPLIFIES THE JOURNEY WHILE KEEPING USERS INFORMED AND EMPOWERED.
 
-🎖️ Future Roadmap
-Phase 1
+🎖️ FUTURE ROADMAP 
+PHASE 1
 
 ✅ Loan Readiness Journey
 
