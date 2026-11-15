@@ -194,7 +194,7 @@ CONTEXT-AWARE ASSISTANT THAT UNDERSTANDS WHERE THE USER IS IN THEIR JOURNEY.
 
 EXAMPLES:
 
-"Why is my affordability score low?"
+"Why IS MY AFFORDABILITY SCORE LOW?"
 
 "Which document am I missing?"
 
