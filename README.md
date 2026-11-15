@@ -198,9 +198,9 @@ EXAMPLES:
 
 "WHICH DOCUMENTS AM I MISSING?"
 
-"Can I safely increase my budget?"
+"CAN I safely INCREASE MY BUDGET?"
 
-"Explain reducing balance like I'm 12."
+"EXPLAIN REDUCING balance like I'm 12."
 
 Works entirely offline for MVP.
 
