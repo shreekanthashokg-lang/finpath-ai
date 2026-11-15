@@ -318,7 +318,7 @@ PHASE 3
 
 Phase 4
 
-🪙 Paytm Ecosystem Integration
+🪙 PAYTM ECOSYSTEM INTEGRATION 
 
 📊 Personalized Financial Health Dashboard
 
