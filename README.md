@@ -276,8 +276,8 @@ INDIA IS ONBOARDING MILLIONS OF FIRST-TIME BORROWERS.
 
 MANY USERS:
 
-HAVE limited financial literacy
-Fear making wrong decisions
+HAVE LIMITED FINANCIAL LITERACY 
+FEAR MAKING WRONG DECISIONS 
 Struggle with documentation
 Do not understand loan terminology
 
