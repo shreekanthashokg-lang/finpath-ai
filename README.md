@@ -304,15 +304,15 @@ Phase 2
 
 🌐 Hindi + Regional Languages
 
-Phase 3
+PHASE 3
 
-🏠 Home Loan Journey
+🏠 HOME LOAN JOURNEY 
 
-🚗 Vehicle Loan Journey
+🚗 VEHICLE LOAN JOURNEY 
 
-🎓 Education Loan Journey
+🎓 EDUCATION LOAN JOURNEY 
 
-🩺 Insurance Claim Journey
+🩺 INSURANCE CLAIM JOURNEY 
 
 💳 Credit Card Readiness Journey
 
