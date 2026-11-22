@@ -326,7 +326,7 @@ Phase 4
 
 🔔 Proactive Financial Alerts
 
-🔥 Hackathon Pitch Tagline
+🔥 HACKTHON PITCH TAGLINE
 
 FINPATH AI DOESN'T JUST ANSWER FINANCIAL QUESTIONS.
 
