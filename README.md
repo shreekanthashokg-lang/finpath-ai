@@ -267,7 +267,7 @@ FINPATH AI
 ▼
  
 ┌─────────────────────┐
-│ Synthetic Products │
+│ SYBTHETIC PRODUCTS │
 │ JSON Data Store │
 └─────────────────────┘
 🇮🇳 WHY THIS MATTERS FOR INDIA 
