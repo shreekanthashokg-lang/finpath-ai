@@ -292,7 +292,7 @@ PHASE 1
 
 ✅ DOCUMENTS ASSISTANT 
 
-✅ Copilot Guidance
+✅ COPIOLT GUIDENCE
 
 Phase 2
 
