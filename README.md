@@ -128,7 +128,7 @@ SALARIED EMPLOYEE
 
 ✅ Bank Statements
 
-✅ Employment Proof
+✅ EMPLOYMENT PROOF
 
 SELF EMPLOYED 
 
