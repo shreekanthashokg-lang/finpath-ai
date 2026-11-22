@@ -87,7 +87,7 @@ ALL FINANCIAL CALCULATIONS ARE MADE:
 
 ✅ Deterministic
 
-✅ Independent of AI hallucinations
+✅ INDEPENDENT of AI hallucination
 
 AI EXPLAINS NUMBERS. PYTHON COMPUTES NUMBERS.
 
